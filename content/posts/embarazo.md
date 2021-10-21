@@ -3,9 +3,9 @@ title: "Embarazo en la adolescencia"
 date: 2021-10-20T22:44:05-05:00
 draft: false
 image: "images/dos.jpeg"
-featured_image: "/images/dos.jpeg"
+featured_image: "/images/hero.jpeg"
 featured_image_caption: "Menstruación"
-summary: "La menstruación, también llamada menorrea, período o regla, es la expulsión de sangre y mucosa que experimentan algunas hembras mamíferas ​ desde el endometrio y hacia la vagina. En las hembras humanas esto ocurre durante un promedio de entre tres y siete días cada mes. Wikipedia."
+summary: "El embarazo en jóvenes es un fenómeno multicausal. Las jóvenes embarazadas poseen menos oportunidades de entrar a estudios de tercer grado, más grande posibilidad de padecer maltrato de género y principalmente mantienen empleos mal remunerados, perpetuando círculos de maltrato y pobreza."
 ---
 ### Cosas normales
 El embarazo en jóvenes es un fenómeno multicausal. Las jóvenes embarazadas poseen menos oportunidades de entrar a estudios de tercer grado, más grande posibilidad de padecer maltrato de género y principalmente mantienen empleos mal remunerados, perpetuando círculos de maltrato y pobreza.
