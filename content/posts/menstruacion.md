@@ -1,11 +1,11 @@
 ---
-title: "Menstruacion"
+title: "La Menstruación"
 date: 2021-10-20T21:38:14-05:00
 draft: false
+show_reading_time: true
 tags: ["adolescencia", "menstruación"]
-image: "images/uno.jpeg"
 featured_image: "/images/tres.jpeg"
-featured_image_caption: "Menstruación"
+featured_imagen_caption: "Todo acerca de la menstruación"
 summary: "La menstruación, también llamada menorrea, período o regla, es la expulsión de sangre y mucosa que experimentan algunas hembras mamíferas ​ desde el endometrio y hacia la vagina. En las hembras humanas esto ocurre durante un promedio de entre tres y siete días cada mes. Wikipedia."
 ---
 

@@ -13,3 +13,20 @@ staticDir = ['static']
 
 [taxonomies]
   tag = 'tags'
+
+
+[menu]
+  [[menu.main]]
+    identifier = 'tags'
+    name = 'Etiquetas'
+    pre = "<i class='fa fa-heart'></i>"
+    url = '/tags/'
+    weight = -110
+
+  [[menu.main]]
+    name = 'Posts'
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = '/posts/'
+    weight = -100
+
