@@ -1,4 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://hugo-six-alpha.vercel.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Blog de Educación Sexual"
 theme = "ananke"
+
+
+staticDir = ['static']
