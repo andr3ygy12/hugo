@@ -1,6 +1,6 @@
 ---
-title: "Menstruacion"
-date: 2021-10-20T21:38:14-05:00
+title: "Test"
+date: 2021-10-21T10:00:09-05:00
 draft: false
 tags: ["adolescencia", "menstruación"]
 image: "images/uno.jpeg"
@@ -8,7 +8,6 @@ featured_image: "/images/tres.jpeg"
 featured_image_caption: "Menstruación"
 summary: "La menstruación, también llamada menorrea, período o regla, es la expulsión de sangre y mucosa que experimentan algunas hembras mamíferas ​ desde el endometrio y hacia la vagina. En las hembras humanas esto ocurre durante un promedio de entre tres y siete días cada mes. Wikipedia."
 ---
-
 ### **Cosas normales** 
 Puede ocurrir cada 21 a 35 días y durar de 2 a 7 días. Durante los primeros años después del comienzo de la menstruación, los ciclos largos son comunes. Sin embargo, los ciclos menstruales tienden a acortarse y a volverse más regulares a medida que envejeces.
 

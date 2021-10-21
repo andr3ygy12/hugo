@@ -2,6 +2,8 @@
 title: "Embarazo en la adolescencia"
 date: 2021-10-20T22:44:05-05:00
 draft: false
+show_reading_time: true
+tags: ["adolescencia", "embarazo"]
 image: "images/dos.jpeg"
 featured_image: "/images/hero.jpeg"
 featured_image_caption: "Menstruación"

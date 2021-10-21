@@ -11,3 +11,5 @@ staticDir = ['static']
   twitter = "https://twitter.com/"
   instagram = "https://instagram.com/"
 
+[taxonomies]
+  tag = 'tags'
