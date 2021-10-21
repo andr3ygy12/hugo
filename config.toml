@@ -7,7 +7,7 @@ theme = "ananke"
 staticDir = ['static']
 
 [params]
-  featured_image = "/images/logo.png"
+  featured_image = "/images/main.jpeg"
   twitter = "https://twitter.com/"
   instagram = "https://instagram.com/"
 
