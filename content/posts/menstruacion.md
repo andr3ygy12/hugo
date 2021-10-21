@@ -2,6 +2,7 @@
 title: "Menstruacion"
 date: 2021-10-20T21:38:14-05:00
 draft: true
+image: "images/uno.jpeg"
 ---
 # Ciclo Menstrual
 
